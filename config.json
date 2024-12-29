@@ -28,9 +28,9 @@
   "OWNER": "Cliff Vincent",
   "AGE": "18",
   "GENDER": "MALE",
-  "nickNameBot": "Yazkybot",
-  "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
-  "prefix": "✓",
+  "nickNameBot": "POGI MO JULES",
+  "FACEBOOK": "https://www.facebook.com/jules.416481?mibextid=ZbWKwL",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
